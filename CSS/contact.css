@@ -1,0 +1,31 @@
+th{
+  width:150px;
+  height: 7rem;
+  text-align: right;
+}
+
+table{
+  border-spacing: 15px 0px;
+}
+
+
+.inputs{
+  width:480px;
+}
+
+.btn{
+  text-align: center;
+}
+
+
+.btn_area{
+  color: white;
+  background-color: blue;
+  font-size: 25px;
+  padding:1rem;
+  margin-bottom: 20rem;
+}
+
+.btn_area:hover{
+  opacity: 0.5
+}
